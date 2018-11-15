@@ -8,6 +8,11 @@ Simply move your jsx/html structure to your sass file.
 
 Search `html to sass` in vscode extensions.
 
+## Use
+
+1. Copy your jsx/html structure.
+2. Move to your .sass file and press `cmd/ctrl` + `shift` + `p` then choose `html to sass`.
+
 ## Known Issues
 
 This extension is still in beta. I'm still working on it.
