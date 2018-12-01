@@ -2,7 +2,7 @@
     "name": "htmltosass",
     "displayName": "html to sass",
     "description": "Turn your html or jsx to sass format",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "nosecoolie",
     "repository": "https://github.com/nosecoolie/html-to-sass",
     "engines": {
@@ -34,7 +34,6 @@
         "typescript": "^2.6.1",
         "vscode": "^1.1.21",
         "eslint": "^4.11.0",
-        "clipboardy": "1.2.3",
         "@types/node": "^8.10.25",
         "@types/mocha": "^2.2.42"
     }
